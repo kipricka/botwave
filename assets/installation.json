@@ -2,6 +2,10 @@
   "releases": [
     {
       "codename": "v1.0.5-abuta",
+      "commit": "564c0935384482c6cf6a1a2a48003d4302b49275"
+    },
+    {
+      "codename": "v1.0.5-abuta",
       "commit": "9bad180a950959c96bc077cb081052f851bd42ab"
     },
     {
